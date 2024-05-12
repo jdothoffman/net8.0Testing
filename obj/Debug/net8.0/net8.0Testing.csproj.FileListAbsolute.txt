@@ -1,0 +1,14 @@
+C:\Users\jdoth\TestApps\net8.0Testing\bin\Debug\net8.0\net8.0Testing.exe
+C:\Users\jdoth\TestApps\net8.0Testing\bin\Debug\net8.0\net8.0Testing.deps.json
+C:\Users\jdoth\TestApps\net8.0Testing\bin\Debug\net8.0\net8.0Testing.runtimeconfig.json
+C:\Users\jdoth\TestApps\net8.0Testing\bin\Debug\net8.0\net8.0Testing.dll
+C:\Users\jdoth\TestApps\net8.0Testing\bin\Debug\net8.0\net8.0Testing.pdb
+C:\Users\jdoth\TestApps\net8.0Testing\obj\Debug\net8.0\net8.0Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdoth\TestApps\net8.0Testing\obj\Debug\net8.0\net8.0Testing.AssemblyInfoInputs.cache
+C:\Users\jdoth\TestApps\net8.0Testing\obj\Debug\net8.0\net8.0Testing.AssemblyInfo.cs
+C:\Users\jdoth\TestApps\net8.0Testing\obj\Debug\net8.0\net8.0Testing.csproj.CoreCompileInputs.cache
+C:\Users\jdoth\TestApps\net8.0Testing\obj\Debug\net8.0\net8.0Testing.dll
+C:\Users\jdoth\TestApps\net8.0Testing\obj\Debug\net8.0\refint\net8.0Testing.dll
+C:\Users\jdoth\TestApps\net8.0Testing\obj\Debug\net8.0\net8.0Testing.pdb
+C:\Users\jdoth\TestApps\net8.0Testing\obj\Debug\net8.0\net8.0Testing.genruntimeconfig.cache
+C:\Users\jdoth\TestApps\net8.0Testing\obj\Debug\net8.0\ref\net8.0Testing.dll
